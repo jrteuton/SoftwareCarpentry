@@ -1,4 +1,4 @@
 take2 try again
-yet another line
+2nd line deleted and replaced with this
 comment 3 to change text files
 make a change /n
