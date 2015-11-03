@@ -3,3 +3,4 @@ hello git repositiory
 file is open what happens
 another line
 comment 3 to change text files
+make a change /n
